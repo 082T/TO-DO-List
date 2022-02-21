@@ -1,6 +1,6 @@
 # TO-DO-List
 
-Joint to-do list with login written in c for Unix/Linux
+Joint to-do list with login written in C for Unix/Linux environment
 ```
 Options:
 
