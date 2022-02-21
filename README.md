@@ -5,11 +5,8 @@ Joint to-do list with login written in c for Unix/Linux
 Options:
 
 1: see list
-
 2: add element
-
 3: change element
-
 4: delete element
 ```
 
