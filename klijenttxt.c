@@ -12,8 +12,8 @@
 #include "protokoltxt.h"
 
 /*
-    1. korisnicko ime
-    2. lozinka
+    1. username
+    2. password
     3. ip
     4. port
 */
