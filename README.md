@@ -6,8 +6,9 @@ Options:
 
 1: see list
 2: add element
-3: change element
-4: delete element
+3: change element*
+4: delete element*
+*if the element was created by that person
 ```
 
 
